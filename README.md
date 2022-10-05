@@ -10,7 +10,7 @@ Hi! I’m Arif most people like me to call Bread
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NotRealArif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NotRealArif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotRealArif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotRealArif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&langs_count=8)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NotRealArif&theme=discord&no-frame=false&no-bg=true&margin-w=4)
