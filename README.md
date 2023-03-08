@@ -22,4 +22,4 @@ Hi! I’m Arif most people like me to call Bread
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ItzYourBread&label=Profile%20Views&color=5&icon=7&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ItzYourBread&label=Profile%20Views&color=2&icon=7&pretty=true)](https://visitcount.itsvg.in)
